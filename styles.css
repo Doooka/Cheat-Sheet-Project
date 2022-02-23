@@ -3,7 +3,7 @@ body {
 }
 
 main {
-    max-width: 1200px;
+    max-width: 1400px;
     width: 95vw;
     margin: auto;
     margin-top: 100px;
@@ -50,4 +50,5 @@ table {
 
 .css-code {
     font-family: monospace;
+    background-color: rgba(255, 255, 255, 0.1)
 }
